@@ -1,0 +1,5 @@
+﻿  ValidCreditCard.cpp
+D:\Cplusplus_projects\ValidCreditCard\ValidCreditCard\ValidCreditCard.cpp(91,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Cplusplus_projects\ValidCreditCard\ValidCreditCard\ValidCreditCard.cpp(113,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Cplusplus_projects\ValidCreditCard\ValidCreditCard\ValidCreditCard.cpp(130,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ValidCreditCard.vcxproj -> D:\Cplusplus_projects\ValidCreditCard\ValidCreditCard\x64\Debug\ValidCreditCard.exe
